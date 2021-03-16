@@ -5,7 +5,7 @@
 - 📫 How to reach me 👉 anjjang23@gmail.com
 
 ## About me 
-- (19.10 - currently) front-end developer
+- (19.10 - currently) front-end developer in startup company
 
 ## interest
 - digital drawing 🎨
