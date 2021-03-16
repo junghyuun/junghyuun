@@ -1,5 +1,4 @@
-# 정현 Jung hyeon
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:anjjang23@gmail.com)
+## 정현 Jung hyeon
 
 - 🌱 I’m currently learning Vue.js and I'll learn React.js too :)
 - 💞️ I’m looking to collaborate on building a nice web/app as a front-end developer 
