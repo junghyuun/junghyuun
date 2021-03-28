@@ -1,4 +1,4 @@
-## 정현 Jung hyn
+## 정현 Jung hyun
 
 - 🌱 I’m currently learning Vue.js and I'll learn React.js too :)
 - 💞️ I’m looking to collaborate on building a nice web/app as a front-end developer 
