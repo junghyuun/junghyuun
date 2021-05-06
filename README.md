@@ -7,7 +7,7 @@
 ## About me 
 - (19.10 - currently) front-end developer in startup company
 
-## interest
+## Interest
 - digital drawing 🎨
 - writing about trivial things ✍
 - taking pictures of passing moments 📷
